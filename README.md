@@ -25,6 +25,6 @@ Data visualization in Python that uses list comprehension to create charts measu
 
 10. Plots the monthly average temperature of every month in the 1890s.
 
-11a. Creates plots of the monthly averages of the first 45 years.
-11b. Creates plots of the monthly averages of the second 45 years.
-11c. Creates plots of the monthly averages of the last 47 years.
+11a. Creates plots of the monthly averages for the first 45 years.
+11b. Creates plots of the monthly averages for the second 45 years.
+11c. Creates plots of the monthly averages for the last 47 years.
