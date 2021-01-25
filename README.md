@@ -1,8 +1,9 @@
 # Global-Warming-Data
 Data visualization in Python that uses list comprehension to create charts measuring average global temperature between certain time periods.
 
-1a. Converts the data from scaled change in Celsius to absolute temperature in Fahrenheit.
-1b. Calculates mean temperature in Fahrenheit over the entire data set.
+1. 
+- Converts the data from scaled change in Celsius to absolute temperature in Fahrenheit.
+- Calculates mean temperature in Fahrenheit over the entire data set.
 
 2a. Finds the mean average temperature of each month.
 2b. Finds lowest and highest average temperatures for each month.
